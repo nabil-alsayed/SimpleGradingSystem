@@ -1,6 +1,6 @@
 # 📘 Student Score Manager
 
-> **A humble journey into Object-Oriented Programming.**
+> **The project serves as a practical application of core programming concepts such as data types, control flow, arrays, I/O operations, and string manipulation. Designed for educational purposes, it provides a comprehensive exercise in procedural programming..**
 
 ---
 
