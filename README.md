@@ -6,7 +6,7 @@
 
 ## 📖 Overview
 
-**Student Score Manager** is a Java application crafted as part of a university OOP course assignment. It's a simple yet effective tool, designed to provide insights into student scores, showcasing the foundational principles of OOP.
+**Student Score Manager** is a Java application crafted using procedual programming as part of a university OOP course assignment. It's a simple yet effective tool, designed to provide insights into student scores, showcasing the foundational principles of OOP.
 
 ---
 
